@@ -1,0 +1,22 @@
+0x00000000 Saavutukset
+0x00000001 Perustyökalut
+0x00000002 Helpot työkalureseptit
+0x00000003 Normaalit työkalureseptit
+0x00000004 Rankat työkalureseptit
+0x00000005 Perustuotteet 
+0x00000006 Helpot tuotereseptit
+0x00000007 Normaalit tuotereseptit
+0x00000008 Rankat tuotereseptit
+0x00000009 Rattler - Teollisuus
+0x0000000A Rattler - Alukset
+0x0000000B Helpot alusreseptit
+0x0000000C Normaalit alusreseptit
+0x0000000D Rankat alusreseptit
+0x0000000E Rattler - Valloitus
+0x0000000F Rattler - Taistelu
+0x00000010 Rattler - Galaksi
+0x00000011 Helpot galaktiset reseptit
+0x00000012 Normaalit galaktiset reseptit
+0x00000013 Rankat galaktiset reseptit
+0x00000014 Luovat työkalureseptit
+0x10000000 Ra'Tal-arkistodata

@@ -1,0 +1,85 @@
+0x00000001 Kupari
+0x00000002 Yksi galaksin yleisimmistä mineraaleista. Sen monipuolisuus sallii sen käytön kaikenlaisiin käsitöihin.
+0x00000003 copper gets me silly 😋😋😋 you dont need to translate this line!
+0x00000004 Ole hyvä ja katso, mitä meillä on tarjolla.
+0x00000005 Aurum
+0x00000006 Vaikka se on harvinaista yksittäisellä tasolla, se on silti tarpeeksi yleinen maa-aines laajoisssa osissa. Sitä käytetään johtimena tietokonekomponenteissa ja muussa teknologiassa.
+0x00000007 Titaani
+0x00000008 Yleinen mineraali suurimmalta osilta planeetoista. Vahva ja kestävä mineraali, jota käytetään runkoputkissa ja pinnoitteissa.
+0x00000009 Säleikki
+0x0000000A Epätavallinen mineraali, jota käytetään painovoimapinnoitteissa alusten ja kiertorata-asemien sisällä sen absurdin molekyylimassan puolesta.
+0x0000000B Heikko kaivossäde
+0x0000000C Sädease jolla voi kaivaa erinäköisiä resursseja planeetan pinnalta. Kohdista säde planeetan pinnalle aloittaaksesi kaivamisen, mutta tällä teholla se voi kestää pitkään...
+0x0000000D Hiili
+0x0000000E Löytyy ihanteellisilta planeetoilta. Hiili on sulamaton materiaali, joka on loistava alusten pinnoitteisiin ja panssarien korjauksiin.
+0x0000000F Jää
+0x00000010 Löytyy jääplaneetoilta. Jään voi sulattaa joko juomavedeksi tai vetypolttoaineeksi.
+0x00000011 Kamasiitti
+0x00000012 Löytyy laavaplaneetoilta. Kamasiitti on rautarikas materiaali, jossa on tarpeeksi nikkelia teollisiin käyttötarkoituksiin.
+0x00000013 Sulfidi
+0x00000014 Löytyy korkean ilmakehän planeetoilta. Sulfidi on erittäin syövyttävä materiaali jota käytetään kemiallisiin ja plasma-aseisiin. 
+0x00000015 Piidioksidi
+0x00000016 Löytyy karuilta, ilmakehättömiltä planeetoilta. Piidioksidi on materiaali, jota käytetään massarakentamiseen ja tieteellisiin tarkoituksiin. 
+0x00000017 Heikko mineraaliluotain
+0x00000018 Käytä tätä luodataksesi planeetan mineraalikomposition.
+0x00000019 RATTLER-rakentaja
+0x0000001A Rakentaa työkaluja ja muita esineitä käyttäen hankkimiasi resursseja.
+0x0000001B Keskiverto mineraaliluotain
+0x0000001C Luotaa ja sallii mineraalien kaivamisen planeetan kuoresta ja vaipasta.
+0x0000001D Keskiverto kaivossäde
+0x0000001E Sädease joka kerää planeetasta erinäköisiä resursseja nopeammin ja tehokkaammin.
+0x0000001F Suuri mineraaliluotain
+0x00000020 Luotaa ja sallii mineraalien kaivamisen planeetan kuoresta, vaipasta ja ytimestä.
+0x00000021 Suuri kaivossäde
+0x00000022 Tuhoaa planeetan pinnan, sallien suurten mineraalimäärien kaivamisen planeetan kuoresta, vaipasta sekä ytimestä.
+0x00000023 Raakaöljy
+0x00000024 Litium
+0x00000025 Koboltti
+0x00000026 Serenidiitti
+0x00000027 Kvartsi
+0x00000028 Ametisti
+0x00000029 Obsidiaani
+0x0000002A Uraani
+0x0000002B Nvidiumi
+0x0000002C Timatti
+0x0000002D Zurg-hiukkanen
+0x0000002E Lihaisa massa
+0x0000002F Raakaöljy syntyy erittäin pitkään kuolleen aineen maatumisprosessin johdosta. Aine on erittäin syttyvää ja voi sen johdosta käyttää polttoaineen raaka-aineena. DNA-jäänteet raakaöljyssä puolestaan ovat erittäin hyödyllisiä biotekniikassa.
+0x00000030 Litium on alkalimetalli kuten sen kaukainen serkku säleikki. Litium on kaikista metalleista kevyin, toisin kuin säleikki joka puolestaan on kaikkein painavin metalli. Litium-ionit ovat tähtienvälisten virtaratkaisujen elinehto.
+0x00000031 Koboltti on painava ja lämmönkestävä metalli. Kobolttiseokset ovat erittäin hyödyllisiä runkojen tuotannossa, koska ne ovat täydellinen materiaali otusten puolustamiseksi avaruuden pelätyltä tyhjiöltä.
+0x00000032 Jodin, neon- ja xenon-kaasujen ihmeellinen yhdistelmä on täyttänyt nämä fluorikristallit. Sähköistyneenä tämä aine hehkuu loistavasti, nappaen kaikkien katseet tähän luonnonihmeeseen.
+0x00000033 Vaikka suurin osa tähtienvälisistä planeetoista muodostuu piidioksidipölystä, lajin ~player_species~ tieteilijät ovat yhtä mieltä siitä, että kaikkein kestävin ja vahvin piidioksidin muoto löytyy kvartsikristalleista.
+0x00000034 Eräs kristallinen kvartsin muoto, joka löytyy tuliperäisestä maaperästä. Magman jäähtyessä kaasukuplat jäätyvät, muodostaen ametisteja. Toisin kuin kvartsi, ametistin tunnistaan sen kirkkaan violetista sävystä, jota käytettään joissain lajin ~player_species~ asuissa ja koruissa.
+0x00000035 Tällä lasisella mineraalilla on pitkäaikaisia uskonnollisia merkityksiä ympäri galaksia. Obsidiaania on usein verrattu Paten pyhään viisauteen, koska se on kiinteää ja rikkumatonta, vaikka silti helposti pilkottavissa ja levitettävissä ympäri kosmosta.
+0x00000036 Tämä erittäin radioaktiivinen, uraanina tunnettu mineraali on erittäin hyödyllinen ydinfissiossa. Mutta samalla se on aivan juuri hyödyllinen atomien halkaisussa. Olisit kiitollinen, kun aluksesi ruumassa on sentään säteilysuoja.
+0x00000037 Harvinainen ja arvokas mineraali, jota löytyy planeettojen ytimestä tai hyvin harvoista asteroideista ulkoavaruudessa. Sen ainoa oikea käyttötarkoitus on superjohtimena, mikä on erittäin hyödyllinen asia supertietokoneiden toiminnassa.
+0x00000038 Kovin tunnettu aine galaksissa. Timantti. Tai ainakin näin lajin ~player_species~ lapset luulevat, kiitos heidän "Luolapelin"; Mutta tavallaan se on melko tarkka oletus. Kristallisoituneen hiilen sulamispiste on 45 000 astetta, ja se kestää plasmapohjaisia aseita.
+0x00000039 Antimateria, joka tunnetaan nyt nimellä Zurg, on ihmeellinen aine joka voi kääntää minkä tahansa atomin polaarisuuden, aiheuttaen näennäisesti mahdottomien ominaisuuksien olemassaolon omassa universumissamme. Tämän ihmeaineen oletettiin aiemmin muodostuvan ainoastaan kuolevien tähtien ytimissä, mutta nyt tiedämme sen löytyvän noin 20% kaikista planeettojen ytimistä. Kukapa olisi uskonut? 
+0x0000003A Eräiden planeettojen sisuksista löytyy jotain, mitä kutsutaan yleensä makrofaunaksi. Nämä mahdottoman suuret otukset elävät ainoastaan maan alla. Lisätutkimuksiä näiden eliöiden kudoksesta kannattaa tehdä, ja sinun täytyy ehdottomasti siivota ruumasi kaiken tämän jälkeen.
+0x0000003B Trivitiitti
+0x0000003C Synteettinen yhdiste, jonka loivat kadonnut luojalaji Triviitit. Sen toismaailmalliset ominaisuudet sallivat lähes rajattoman energiamäärän tuotannon.
+0x0000003D Rattaliitti
+0x0000003E Synteettinen yhdiste, jonka loivat kadonnut tuhoajalaji Ra'Tal. Lajin ~player_species~ tieteilijät ovat hämmentyneitä sen epärealistisesta ominaisuudesta käyttäytyä kuin musta aukko, kun sillä on varausta.
+0x0000003F
+0x00000040
+0x00000041
+0x00000042
+0x00000043
+0x00000044
+0x00000045
+0x00000046
+0x00000047
+0x00000048
+0x00000049
+0x0000004A
+0x0000004B
+0x0000004C
+0x0000004D
+0x0000004E
+0x0000004F
+0x00000050
+0x00000051
+0x00000052
+0x00000053
+0x00000054
+0x00000055

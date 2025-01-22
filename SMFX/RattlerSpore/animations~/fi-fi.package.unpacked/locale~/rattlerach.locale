@@ -1,0 +1,33 @@
+0x00000000 Näppärä
+0x00000001 Tehtailun makua
+0x00000002 Kaiva kaivamista
+0x00000003 Geologiafanaatikko 1
+0x00000004 Geologiafanaatikko 2
+0x00000005 Geologiafanaatikko 3
+0x00000006 Kelpo kaivuri 1
+0x00000007 Kelpo kaivuri 2
+0x00000008 Kelpo kaivuri 3
+0x00000009 Kelpo kaivuri 4
+0x0000000A Kelpo kaivuri 5
+0x0000000B Rakentaja-addikti 1
+0x0000000C Rakentaja-addikti 2
+0x0000000D Rakentaja-addikti 3
+0x0000000E Rakentaja-addikti 4
+0x0000000F Sivistynyt
+0x00000010 Hanki RATTLER-rakentaja.
+0x00000011 Hanki heikko mineraaliluotain.
+0x00000012 Hanki heikko kaivossäde.
+0x00000013 Löydä 5 erilaista mineraalia.
+0x00000014 Löydä 10 erilaista mineraalia.
+0x00000015 Löydä 20 erilaista mineraalia.
+0x00000016 Kaiva 50 kilogrammaa mineraaleja avaruuspelissä.
+0x00000017 Kaiva 750 kilogrammaa mineraaleja avaruuspelissä.
+0x00000018 Kaiva 2 500 kilogrammaa mineraaleja avaruuspelissä.
+0x00000019 Kaiva 50 000 kilogrammaa mineraaleja avaruuspelissä.
+0x0000001A Kaiva 1 000 000 kilogrammaa mineraaleja avaruuspelissä.
+0x0000001B Rakenna 50 erää tuotteita.
+0x0000001C Rakenna 200 erää tuotteita.
+0x0000001D Rakenna 1000 erää tuotteita.
+0x0000001E Rakenna 7500 erää tuotteita.
+0x0000001F Sano salainen lause huijauskoodikonsolissa.
+0x00000020 Saavutukset

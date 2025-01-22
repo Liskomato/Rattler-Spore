@@ -1,0 +1,18 @@
+0x00000000 Hermeettinen pinnoite
+0x00000001 Gyroskooppi
+0x00000002 Tietokonepaketti
+0x00000003 Järjestelmälokero
+0x00000004 Elämänylläpitö
+0x00000005 Energiakapasiittori
+0x00000006 Kokoonpanija
+0x00000007 Rahtisiilo
+0x00000008 Standardisoiut ammukset
+0x00000010 Ilmatiivis runko, joka on tehty kestämään avaruuden tyhjiötä.
+0x00000011 Sallii aluksen tietokoneen mitata aluksen asennon, nopeuden ja kiihtyvyyden erittäin vaihtelevissa ympäristöissä.
+0x00000012 Tietokoneet ovat erittäin hyödyllisiä laitteita, jotka tekevät erittäin toistuvia tai monimutkaisia laskutoimituksia erittäin nopeassa ajassa.
+0x00000013 Järjestelmälokeroa käytetään erityisten työkalujen käyttöön ja laukaisuun aluksissa ja asemilla.
+0x00000014 Elämänylläpitojärjestelmä on erityislaite, joka simuloi lajin ~player_species~ kotiplaneetan olosuhteita, sallien heidän selviytymisen olosuhteissa, jotka olisivat heille muuten elinkelvottomia.
+0x00000015 Joka ikinen laite, tehdas, alus ja asema galaksissa tarvitsee energiaa toimiakseen. Energiakapasiittorit sallivat kaikkien laitteiden varaavan energiaa itselleen ja käyttää sitä vain tarvittaessa.
+0x00000016 Kokoonpanijat ovat mekaanisia käsiä, joita voi hienosäätää kaikkien tavaroiden jälleenrakentamiseen uudestaan ja uudestaan.
+0x00000017 Rahtisiilo sallii aineen säilyttämisen mahdollisimman kompaktissa tilassa.
+0x00000018 Nämä tyhjät ammukset sopivat kaikkiin mahdollisiin eri tykkeihin lajin ~player_species~ laivastossa.
