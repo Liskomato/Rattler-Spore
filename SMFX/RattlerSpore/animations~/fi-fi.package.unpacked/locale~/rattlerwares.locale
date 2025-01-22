@@ -6,7 +6,8 @@
 0x00000005 Energiakapasiittori
 0x00000006 Kokoonpanija
 0x00000007 Rahtisiilo
-0x00000008 Standardisoiut ammukset
+0x00000008 Standardisoidut ammukset
+0x00000009 Piikiekko
 0x00000010 Ilmatiivis runko, joka on tehty kestämään avaruuden tyhjiötä.
 0x00000011 Sallii aluksen tietokoneen mitata aluksen asennon, nopeuden ja kiihtyvyyden erittäin vaihtelevissa ympäristöissä.
 0x00000012 Tietokoneet ovat erittäin hyödyllisiä laitteita, jotka tekevät erittäin toistuvia tai monimutkaisia laskutoimituksia erittäin nopeassa ajassa.
@@ -16,3 +17,4 @@
 0x00000016 Kokoonpanijat ovat mekaanisia käsiä, joita voi hienosäätää kaikkien tavaroiden jälleenrakentamiseen uudestaan ja uudestaan.
 0x00000017 Rahtisiilo sallii aineen säilyttämisen mahdollisimman kompaktissa tilassa.
 0x00000018 Nämä tyhjät ammukset sopivat kaikkiin mahdollisiin eri tykkeihin lajin ~player_species~ laivastossa.
+0x00000019 Nämä isot prosessoidusta piistä valmistetut kiekot muodostavat suurimman osan mikroprosessoreista kaikissa tietokoneissa. Vaikka se on näkyvässä valossa täysin läpinäkymätöntä, niitä voi myös muovata laserlinsseiksi.
